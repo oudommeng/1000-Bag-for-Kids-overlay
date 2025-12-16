@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 
 const IMAGES = Array.from(
-  { length: 10 },
+  { length: 24 },
   (_, i) => `/images/activity${i + 1}.png`
 );
 
