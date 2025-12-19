@@ -150,6 +150,7 @@ export default function Home() {
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content="1000 Bags for Kids Cambodia Campaign" />
+        <meta property="article:publisher" content="https://www.facebook.com/CADT.sa" />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
