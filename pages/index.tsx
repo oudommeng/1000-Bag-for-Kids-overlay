@@ -140,7 +140,7 @@ export default function Home() {
         <meta name="description" content="បរិច្ចាគដើម្បីស្នាមញញឹមកុមារ 🎒 មូលនិធិ ៥ ពាន់កាបូបនៃស្នាមញញឹម - សមាគមនិស្សិត បណ្ឌិត្យសភា CADT នៃ​ក្រសួងប្រៃសណីយ៍ និងទូរគមនាគមន៍​ រៀប​ចំយុទ្ធនាការ​ជួយកុមារភៀសសឹក​ ដើម្បីទទួលការបរិច្ចាគ សៀវភៅអាន សម្លៀកបំពាក់កុមារ និងថវិកា។ Donate for children's smiles - Help us provide school bags, books, clothes and supplies to children in Cambodia." />
         <meta name="keywords" content="Cambodia,កាបូបនៃស្នាមញញឹម,charity, donation, school bags, education, children, kids, 5000 bags, កម្ពុជា, បរិច្ចាគ, កាបូបសិស្ស, CADT, CSA, ស្នាមញញឹម, កុមារ, សមាគមនិស្សិត" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        
+
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.bagsofsmile.asia/" />
@@ -150,7 +150,7 @@ export default function Home() {
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content="1000 Bags for Kids Cambodia Campaign" />
-        
+
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://www.bagsofsmile.asia/" />
@@ -158,7 +158,7 @@ export default function Home() {
         <meta property="twitter:description" content="បរិច្ចាគដើម្បីស្នាមញញឹមកុមារ 🎒 មូលនិធិ ៥ ពាន់កាបូបនៃស្នាមញញឹម - Donate for children's smiles - Help provide school bags, books, and clothes to children in Cambodia." />
         <meta property="twitter:image" content="https://www.bagsofsmile.asia/images/metaimage.png" />
         <meta property="twitter:image:alt" content="1000 Bags for Kids Cambodia Campaign" />
-        
+
         {/* Canonical URL */}
         <link rel="canonical" href="https://www.bagsofsmile.asia/" />
       </Head>
