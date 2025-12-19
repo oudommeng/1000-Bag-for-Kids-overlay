@@ -5,6 +5,8 @@ class MyDocument extends Document {
     return (
       <Html lang="km">
         <Head>
+          {/* Favicon */}
+          <link rel="icon" href="/images/icon.png" />
           {/* Preload Niradei woff2 if available; fallback to ttf will be used by @font-face */}
           <link
             rel="preload"
