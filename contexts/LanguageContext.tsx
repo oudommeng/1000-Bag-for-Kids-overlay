@@ -24,7 +24,7 @@ const translations: Record<Language, Record<string, string>> = {
         'hero.title.prefix': 'មូលនិធិ',
         'hero.title.number': '៥ពាន់',
         'hero.title.suffix': 'កាបូបនៃស្នាមញញឹម',
-        'hero.goal': 'គោលដៅរបស់ពួកយើង',
+        'hero.goal': 'កាបូបដែលបានបញ្ជូនដល់ក្មេងៗ',
         'hero.bags': 'កាបូប',
         'hero.lastUpdated': 'កែប្រែចុងក្រោយ​:',
 
@@ -58,7 +58,7 @@ const translations: Record<Language, Record<string, string>> = {
         'message.yourName': 'ឈ្មោះរបស់អ្នក (Your Name)',
         'message.yourNamePlaceholder': 'បញ្ចូលឈ្មោះរបស់អ្នក',
         'message.messageToKids': 'សារទៅកុមារ (Message to Kids)',
-        'message.messagePlaceholder': 'សរសេរសារលើកទឹកចិត្តទៅកុមារ...',
+        'message.messagePlaceholder': 'ខ្លឹមសារនៃសារបស់អ្នក...',
         'message.sendButton': 'បញ្ជូនសារ (Send Message)',
         'message.fromDonors': 'សារពីសប្បុរសជន (Messages from Donors)',
         'message.noMessages': 'មិនទាន់មានសារនៅឡើយទេ។ សូមក្លាយជាអ្នកដំបូងក្នុងការផ្ញើសារលើកទឹកចិត្តទៅកុមារៗ!',
@@ -81,7 +81,7 @@ const translations: Record<Language, Record<string, string>> = {
         // International Donation
         'international.title': 'បរិច្ចាគពីបរទេស',
         'international.description': 'សម្រាប់អ្នកបរិច្ចាគពីបរទេស សូមចុចលើប៊ូតុងខាងក្រោមដើម្បីបរិច្ចាគតាមរយៈវេទិកាអន្តរជាតិ',
-        'international.button': 'បរិច្ចាគតាមរយះ Khmer Care',
+        'international.button': 'បរិច្ចាគតាមរយៈ Khmer Care',
 
         // Footer
         'footer.organizedBy': 'រៀបចំដោយ៖',
@@ -91,7 +91,7 @@ const translations: Record<Language, Record<string, string>> = {
         'hero.title.prefix': 'Foundation of',
         'hero.title.number': '5000',
         'hero.title.suffix': 'Bags of Smiles',
-        'hero.goal': 'Our Goal',
+        'hero.goal': 'Bags Delivered to Kids',
         'hero.bags': 'Bags',
         'hero.lastUpdated': 'Last updated:',
 

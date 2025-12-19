@@ -20,6 +20,25 @@ class MyDocument extends Document {
             type="font/ttf"
             crossOrigin="anonymous"
           />
+          {/* Structured Data for SEO */}
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "1000 Bags for Kids Cambodia",
+                "url": "https://www.bagsofsmile.asia",
+                "logo": "https://www.bagsofsmile.asia/images/metaimage.png",
+                "description": "Help us provide school bags and educational supplies to children in Cambodia",
+                "foundingDate": "2025",
+                "areaServed": "Cambodia",
+                "sameAs": [
+                  "https://www.facebook.com/CADT.sa"
+                ]
+              })
+            }}
+          />
         </Head>
         <body>
           <Main />
