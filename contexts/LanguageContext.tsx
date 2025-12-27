@@ -160,7 +160,7 @@ interface LanguageProviderProps {
 }
 
 export const LanguageProvider = ({ children }: LanguageProviderProps) => {
-    const [language, setLanguageState] = useState<Language>('km');
+    const [language, setLanguageState] = useState<Language>('en');
 
     // Load language preference from localStorage on mount
     useEffect(() => {
